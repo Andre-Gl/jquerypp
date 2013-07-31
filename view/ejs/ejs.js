@@ -1,5 +1,5 @@
 /*jslint evil: true */
-steal('./../view', './../lang/string/rsplit').then(function( $ ) {
+steal('./../view/view.js', './../lang/string/rsplit/rsplit.js').then(function( $ ) {
 
 	// HELPER METHODS ==============
 	var myEval = function( script ) {

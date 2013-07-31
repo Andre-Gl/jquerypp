@@ -1,4 +1,4 @@
-steal('./../string',function( $ ) {
+steal('./../string/string.js',function( $ ) {
 	/**
 	 * @add jQuery.String
 	 */
